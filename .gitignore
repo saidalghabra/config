@@ -1,0 +1,9 @@
+/*
+
+!.gitignore
+
+!nvim/
+
+!tmux/
+tmux/*
+!tmux/.tmux.conf
