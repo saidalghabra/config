@@ -5,7 +5,7 @@
 vim.keymap.del("n", "<leader>gg")
 vim.keymap.del("n", "<leader>gG")
 vim.keymap.del("n", "<leader>fT")
-vim.keymap.del("t", "<esc><esc>")
+-- vim.keymap.del("t", "<esc><esc>")
 
 vim.keymap.set({ "n", "i", "t" }, "<M-]>", "<cmd>vertical resize +5<CR>", { silent = true })
 vim.keymap.set({ "n", "i", "t" }, "<M-[>", "<cmd>vertical resize -5<CR>", { silent = true })
