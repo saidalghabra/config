@@ -1,0 +1,8 @@
+general.import = [
+  "/home/jigsaw/.config/alacritty/font.toml",
+  "/home/jigsaw/.config/alacritty/catppuccin-mocha.toml",
+  "/home/jigsaw/.config/alacritty/keys.toml",
+]
+
+[env]
+TERM = "xterm-256color"

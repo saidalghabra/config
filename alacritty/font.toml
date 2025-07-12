@@ -1,0 +1,14 @@
+[font]
+size = 14.0
+
+[font.bold]
+family = "JetBrainsMonoNL NF"
+
+[font.bold_italic]
+family = "JetBrainsMonoNL NF"
+
+[font.italic]
+family = "JetBrainsMonoNL NF"
+
+[font.normal]
+family = "JetBrainsMonoNL NF"
