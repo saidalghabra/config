@@ -4,6 +4,7 @@
 
 !nvim/
 !alacritty/
+!lazygit/
 
 !tmux/
 tmux/*
