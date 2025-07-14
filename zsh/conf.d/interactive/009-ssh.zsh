@@ -1,5 +1,4 @@
 {
   eval "$(ssh-agent -s)" 
-  [[ -f "$HOME/.ssh/work" ]] && ssh-add "$HOME/.ssh/work"
-  [[ -f "$HOME/.ssh/personal" ]] && ssh-add "$HOME/.ssh/personal"
+  [[ -f "$HOME/.ssh/github_saidalghabra" ]] && ssh-add "$HOME/.ssh/github_saidalghabra"
 } &> /dev/null
