@@ -6,6 +6,7 @@
 !alacritty/
 !lazygit/
 !oh-my-zsh-custom/
+oh-my-zsh-custom/custom/plugins/
 !zsh/
 
 !tmux/
