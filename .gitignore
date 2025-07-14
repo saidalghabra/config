@@ -5,8 +5,8 @@
 !nvim/
 !alacritty/
 !lazygit/
-
 !oh-my-zsh-custom/
+!zsh/
 
 !tmux/
 tmux/*
