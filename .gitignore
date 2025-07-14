@@ -6,6 +6,8 @@
 !alacritty/
 !lazygit/
 
+!oh-my-zsh-custom/
+
 !tmux/
 tmux/*
 !tmux/tmux.conf
