@@ -25,6 +25,7 @@ return {
         "--function-arg-placeholders",
         "--fallback-style=llvm",
         "--inlay-hints=false",
+        "--query-driver=/usr/local/arm-gnu-toolchain-12.3.rel1-x86_64-arm-none-eabi/bin/arm-none-eabi-*",
       }
 
       if type(clangd.keys) == "table" then
